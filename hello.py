@@ -10,7 +10,7 @@ if __name__ == '__main__':
     print('test pi PASSED')
     
     print('run pi test that will fail')
-    assert pi() = 99
+    assert pi() == 99
 
     print('All tests passed')
     
