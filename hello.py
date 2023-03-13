@@ -5,7 +5,7 @@ def pi():
     return 3.14
 
 if __name__ == '__main__':
-    assert pi() == 3.14d
+    assert pi() == 3.14
     
     print('All tests passed')
     
